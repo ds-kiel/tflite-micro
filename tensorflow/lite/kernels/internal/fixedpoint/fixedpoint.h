@@ -24,7 +24,7 @@
 #include <cstdint>
 #include <limits>
 
-#include "./detect_platform.h"
+#include "../detect_platform.h"
 
 namespace gemmlowp {
 
